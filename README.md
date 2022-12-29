@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Caro-V
+- 👋 Hi, I’m Carolina
 - 👀 I’m interested in improving my skills in frontend development
-- 🌱 I’m currently learning js, css, html
+- 🌱 I’m currently learning Javascrip, CSS, HTML
 - 💞️ I’m looking to collaborate on different projects
 - 📫 You can reach me on [LinkedIn](www.linkedin.com/in/carolinavelasquezrodriguez)
 
