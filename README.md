@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Carolina
 - 👀 I’m interested in improving my skills in frontend development
-- 🌱 I’m currently learning Javascrip, CSS, HTML
+- 🌱 I’m currently studying to become a frontend developer
 - 💞️ I’m looking to collaborate on different projects
 - 📫 You can reach me on [LinkedIn](www.linkedin.com/in/carolinavelasquezrodriguez)
 
